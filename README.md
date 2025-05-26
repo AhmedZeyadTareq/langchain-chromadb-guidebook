@@ -198,6 +198,12 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 📧 Contact
+### 👨‍💻 Developed By
+### **Ahmed Zeyad Tareq**  
+📌 Data Scientist & AI Developer | 🎓 Master of AI Engineering
+- 📞 WhatsApp: +905533333587 
+- [GitHub](https://github.com/AhmedZeyadTareq) | [LinkedIn](https://www.linkedin.com/in/ahmed-zeyad-tareq) | [Kaggle](https://www.kaggle.com/ahmedzeyadtareq)
+
 
 
 ---
