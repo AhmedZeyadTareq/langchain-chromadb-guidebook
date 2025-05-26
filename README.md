@@ -39,7 +39,7 @@ Whether you're a beginner or deploying enterprise-grade solutions, this repo has
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/AhmedZeyadTareq/langchain-chromadb-guidebook.git
 cd your-repository-name
 ```
 
@@ -199,7 +199,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For questions or collaborations, reach out via \[[your-email@example.com](mailto:your-email@example.com)] or open an issue on GitHub.
 
 ---
 
