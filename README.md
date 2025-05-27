@@ -1,5 +1,8 @@
 # ChromaDB-LangChain Notebook Collection
 
+
+A hands-on guide to building Retrieval-Augmented Generation (RAG) systems with LangChain and ChromaDB — ideal for both learners and professionals.
+
 This repository contains a curated collection of Python scripts showcasing how to build powerful document-based Q\&A systems by integrating **LangChain** with **ChromaDB**, as well as using **ChromaDB natively**.
 
 Each script is self-contained, progressively increases in complexity, and demonstrates unique use cases — from basic in-memory search to production-ready RAG (Retrieval-Augmented Generation) pipelines.
