@@ -25,8 +25,13 @@ chunks = splitter.split_documents(docs)
 
 print(f"Total chunks: {len(chunks)}")
 
-# Create a persistent ChromaDB vector store from the chunks
+
+
 embeddings = OpenAIEmbeddings()
+# Create a non-persistent ChromaDB vector store in memory from the chunks.
+# vectorstore = Chroma.from_documents(documents=chunks, embedding=embeddings)
+
+# Create a persistent ChromaDB vector store from the chunks
 vectorstore = Chroma.from_documents(documents=chunks, embedding=embeddings, persist_directory="chroma_DB")
 
 # Initialize LLM (OpenAI)
